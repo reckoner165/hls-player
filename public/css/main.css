@@ -1,0 +1,9 @@
+.video-wrapper {
+    position: absolute;
+    height: 768px;
+    width: 1024px;
+}
+
+#video {
+    position: relative;
+}
